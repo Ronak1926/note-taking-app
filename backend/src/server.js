@@ -15,6 +15,3 @@ connectDB().then(() =>{
         console.log(`Server Started on Port : ${PORT}`)
     })
 })
-
-
-// mongodb+srv://ronaksojitra1926:RIC2VNuGZXjBrB6W@cluster0.f1xmnf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
