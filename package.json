@@ -1,0 +1,20 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "A full-stack **MERN** application to create, update, and delete notes with a responsive UI and backend rate limiting using **Upstash Redis**. Perfect for learning and showcasing full-stack development skills.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronak1926/note-taking-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronak1926/note-taking-app/issues"
+  },
+  "homepage": "https://github.com/Ronak1926/note-taking-app#readme"
+}
