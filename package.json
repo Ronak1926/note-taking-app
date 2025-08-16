@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
-    "start" : "npm run start --prefix backend"
+    "start": "npm run start --prefix backend"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "url": "https://github.com/Ronak1926/note-taking-app/issues"
   },
   "homepage": "https://github.com/Ronak1926/note-taking-app#readme",
-  "engines": {
-    "node": "20.x"
+  "dependencies": {
+    "mogoose": "^0.0.1-security"
   }
 }
