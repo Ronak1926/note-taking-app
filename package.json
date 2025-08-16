@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ronak1926/note-taking-app/issues"
   },
-  "homepage": "https://github.com/Ronak1926/note-taking-app#readme"
+  "homepage": "https://github.com/Ronak1926/note-taking-app#readme",
+  "engines": {
+    "node": "20.x"
+  }
 }
